@@ -1,0 +1,32 @@
+body {
+    height: 2000px;
+}
+
+.os {
+    background-color: #333;
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.os2 {
+    background-color: rgb(117, 15, 15);
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.os3 {
+    background-color: rgb(8, 94, 27);
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.product {
+    background-color: rgb(10, 8, 126);
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    min-height: 100px;
+}
